@@ -1,0 +1,47 @@
+C:\Proyectos\job_Informes_WalmartMX\CrossCutting\bin\Release\CrossCutting.dll
+C:\Proyectos\job_Informes_WalmartMX\CrossCutting\bin\Release\CrossCutting.pdb
+C:\Proyectos\job_Informes_WalmartMX\CrossCutting\obj\Release\CrossCutting.dll
+C:\Proyectos\job_Informes_WalmartMX\CrossCutting\obj\Release\CrossCutting.pdb
+C:\VS Projects\job_Informes_WalmartMX\CrossCutting\bin\Release\CrossCutting.dll.config
+C:\VS Projects\job_Informes_WalmartMX\CrossCutting\bin\Release\CrossCutting.dll
+C:\VS Projects\job_Informes_WalmartMX\CrossCutting\bin\Release\CrossCutting.pdb
+C:\VS Projects\job_Informes_WalmartMX\CrossCutting\bin\Release\EntityFramework.dll
+C:\VS Projects\job_Informes_WalmartMX\CrossCutting\bin\Release\EntityFramework.SqlServer.dll
+C:\VS Projects\job_Informes_WalmartMX\CrossCutting\bin\Release\EntityFramework.xml
+C:\VS Projects\job_Informes_WalmartMX\CrossCutting\bin\Release\EntityFramework.SqlServer.xml
+C:\VS Projects\job_Informes_WalmartMX\CrossCutting\obj\Release\CrossCutting.dll
+C:\VS Projects\job_Informes_WalmartMX\CrossCutting\obj\Release\CrossCutting.pdb
+D:\Work\VS Projects\job_Informes_WalmartMX\CrossCutting\bin\Release\CrossCutting.dll.config
+D:\Work\VS Projects\job_Informes_WalmartMX\CrossCutting\bin\Release\CrossCutting.dll
+D:\Work\VS Projects\job_Informes_WalmartMX\CrossCutting\bin\Release\CrossCutting.pdb
+D:\Work\VS Projects\job_Informes_WalmartMX\CrossCutting\bin\Release\EntityFramework.dll
+D:\Work\VS Projects\job_Informes_WalmartMX\CrossCutting\bin\Release\EntityFramework.SqlServer.dll
+D:\Work\VS Projects\job_Informes_WalmartMX\CrossCutting\bin\Release\EntityFramework.xml
+D:\Work\VS Projects\job_Informes_WalmartMX\CrossCutting\bin\Release\EntityFramework.SqlServer.xml
+D:\Work\VS Projects\job_Informes_WalmartMX\CrossCutting\obj\Release\CrossCutting.csproj.CoreCompileInputs.cache
+D:\Work\VS Projects\job_Informes_WalmartMX\CrossCutting\obj\Release\CrossCutting.dll
+D:\Work\VS Projects\job_Informes_WalmartMX\CrossCutting\obj\Release\CrossCutting.pdb
+C:\Users\Miguel Hernandez\source\repos\PruebaEnvioCorreo\CrossCutting\bin\Release\CrossCutting.dll.config
+C:\Users\Miguel Hernandez\source\repos\PruebaEnvioCorreo\CrossCutting\bin\Release\CrossCutting.dll
+C:\Users\Miguel Hernandez\source\repos\PruebaEnvioCorreo\CrossCutting\bin\Release\CrossCutting.pdb
+C:\Users\Miguel Hernandez\source\repos\PruebaEnvioCorreo\CrossCutting\bin\Release\EntityFramework.dll
+C:\Users\Miguel Hernandez\source\repos\PruebaEnvioCorreo\CrossCutting\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Miguel Hernandez\source\repos\PruebaEnvioCorreo\CrossCutting\bin\Release\EntityFramework.xml
+C:\Users\Miguel Hernandez\source\repos\PruebaEnvioCorreo\CrossCutting\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Miguel Hernandez\source\repos\PruebaEnvioCorreo\CrossCutting\obj\Release\CrossCutting.csprojAssemblyReference.cache
+C:\Users\Miguel Hernandez\source\repos\PruebaEnvioCorreo\CrossCutting\obj\Release\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Hernandez\source\repos\PruebaEnvioCorreo\CrossCutting\obj\Release\CrossCutting.csproj.CopyComplete
+C:\Users\Miguel Hernandez\source\repos\PruebaEnvioCorreo\CrossCutting\obj\Release\CrossCutting.dll
+C:\Users\Miguel Hernandez\source\repos\PruebaEnvioCorreo\CrossCutting\obj\Release\CrossCutting.pdb
+C:\Users\Miguel Hernandez\source\repos\WebApplication1\CrossCutting\bin\Release\CrossCutting.dll.config
+C:\Users\Miguel Hernandez\source\repos\WebApplication1\CrossCutting\bin\Release\CrossCutting.dll
+C:\Users\Miguel Hernandez\source\repos\WebApplication1\CrossCutting\bin\Release\CrossCutting.pdb
+C:\Users\Miguel Hernandez\source\repos\WebApplication1\CrossCutting\bin\Release\EntityFramework.dll
+C:\Users\Miguel Hernandez\source\repos\WebApplication1\CrossCutting\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Miguel Hernandez\source\repos\WebApplication1\CrossCutting\bin\Release\EntityFramework.xml
+C:\Users\Miguel Hernandez\source\repos\WebApplication1\CrossCutting\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Miguel Hernandez\source\repos\WebApplication1\CrossCutting\obj\Release\CrossCutting.csprojAssemblyReference.cache
+C:\Users\Miguel Hernandez\source\repos\WebApplication1\CrossCutting\obj\Release\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Hernandez\source\repos\WebApplication1\CrossCutting\obj\Release\CrossCutting.csproj.CopyComplete
+C:\Users\Miguel Hernandez\source\repos\WebApplication1\CrossCutting\obj\Release\CrossCutting.dll
+C:\Users\Miguel Hernandez\source\repos\WebApplication1\CrossCutting\obj\Release\CrossCutting.pdb
